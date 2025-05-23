@@ -1,2 +1,3 @@
 # git-sample-actions
-GitHub Actionsを
+
+GitHub Actions を使ってみよう！！
